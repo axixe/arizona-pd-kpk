@@ -1,0 +1,18 @@
+{
+  "name": "arizona-pd-kpk",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --host 127.0.0.1",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.6.4",
+    "sass": "^1.108.2",
+    "vue": "^3.5.45",
+    "vue-router": "^5.4.0"
+  }
+}
